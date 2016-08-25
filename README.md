@@ -1,8 +1,6 @@
 portfolio
 =========
 
-Cathalmb.com portfolio templates.
+Cathalmb.com WordPress portfolio templates.
 
-- index.html
-- portfolio.html
-- about.html
+
